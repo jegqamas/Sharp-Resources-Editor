@@ -1,0 +1,5 @@
+﻿
+Command lines:
+--------------
+/copy: use copy mode, copy all resource files (with *.resx extension) into the target folder. No generation nor id chose.
+/noeditor: don't copy the 'Sharp Resource Editor' into the target folder.
